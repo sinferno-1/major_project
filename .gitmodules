@@ -1,0 +1,3 @@
+[submodule "aqiapp"]
+	path = aqiapp
+	url = https://github.com/sinferno-1/aqiapp
