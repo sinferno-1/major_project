@@ -1,6 +1,6 @@
 
 # ReadMe
-Using Machine Learinng techniques for AQI prediction. Particularly exploring use of Long Short Term Memory Model (LSTM) for the purpose. For detailed info refer to the pdf:
+Using Machine Learing techniques for AQI prediction. Particularly exploring use of Long Short Term Memory Model (LSTM) for the purpose. For detailed info refer to the pdf:
 https://github.com/sinferno-1/major_project/blob/main/Paper.pdf
 Here is screenshot of the App.
 
