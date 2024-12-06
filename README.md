@@ -4,6 +4,17 @@ Using Machine Learing techniques for AQI prediction, particularly exploring use 
 https://github.com/sinferno-1/major_project/blob/main/Paper.pdf
 <br>
 <br>
+Structure of LSTM:
+
+![image](https://github.com/user-attachments/assets/647f525c-8538-4e9a-b17b-cec80bafd0da)
+
+<br>
+
+App Integration with backend:
+![image](https://github.com/user-attachments/assets/921e9557-27ca-40b8-980d-81ab3afd4f3c)
+
+<br>
+
 Here is screenshot of the App:
 
 <div style="display: flex; flex-direction:row; justify-content: space-between; margin-top: 20px; align-items:center; width:100%">
